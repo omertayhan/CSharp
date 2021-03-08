@@ -1,0 +1,7 @@
+C:\Users\OTA\Desktop\ArrayContain\bin\Debug\ArrayContain.exe.config
+C:\Users\OTA\Desktop\ArrayContain\bin\Debug\ArrayContain.exe
+C:\Users\OTA\Desktop\ArrayContain\bin\Debug\ArrayContain.pdb
+C:\Users\OTA\Desktop\ArrayContain\obj\Debug\ArrayContain.csprojAssemblyReference.cache
+C:\Users\OTA\Desktop\ArrayContain\obj\Debug\ArrayContain.csproj.CoreCompileInputs.cache
+C:\Users\OTA\Desktop\ArrayContain\obj\Debug\ArrayContain.exe
+C:\Users\OTA\Desktop\ArrayContain\obj\Debug\ArrayContain.pdb

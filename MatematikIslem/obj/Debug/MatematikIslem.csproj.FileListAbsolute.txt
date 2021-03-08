@@ -1,0 +1,6 @@
+C:\Users\OTA\Desktop\MatematikIslem\bin\Debug\MatematikIslem.exe.config
+C:\Users\OTA\Desktop\MatematikIslem\bin\Debug\MatematikIslem.exe
+C:\Users\OTA\Desktop\MatematikIslem\bin\Debug\MatematikIslem.pdb
+C:\Users\OTA\Desktop\MatematikIslem\obj\Debug\MatematikIslem.csproj.CoreCompileInputs.cache
+C:\Users\OTA\Desktop\MatematikIslem\obj\Debug\MatematikIslem.exe
+C:\Users\OTA\Desktop\MatematikIslem\obj\Debug\MatematikIslem.pdb

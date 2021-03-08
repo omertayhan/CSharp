@@ -1,0 +1,7 @@
+C:\Users\OTA\Desktop\tekCift\obj\Debug\tekCift.csproj.CoreCompileInputs.cache
+C:\Users\OTA\Desktop\tekCift\bin\Debug\tekCift.exe.config
+C:\Users\OTA\Desktop\tekCift\bin\Debug\tekCift.exe
+C:\Users\OTA\Desktop\tekCift\bin\Debug\tekCift.pdb
+C:\Users\OTA\Desktop\tekCift\obj\Debug\tekCift.exe
+C:\Users\OTA\Desktop\tekCift\obj\Debug\tekCift.pdb
+C:\Users\OTA\Desktop\tekCift\obj\Debug\tekCift.csprojAssemblyReference.cache
