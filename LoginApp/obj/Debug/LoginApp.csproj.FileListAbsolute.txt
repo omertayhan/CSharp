@@ -1,0 +1,7 @@
+C:\Users\OTA\Desktop\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\OTA\Desktop\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\OTA\Desktop\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\OTA\Desktop\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\OTA\Desktop\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\OTA\Desktop\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\OTA\Desktop\LoginApp\obj\Debug\LoginApp.pdb
